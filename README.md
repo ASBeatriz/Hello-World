@@ -26,3 +26,20 @@ Lista demaracada:
 Lista de tarefas:
 - [x] tarefa 1
 - [ ] tarefa 2
+
+Acesse [meu GitHub](https://github.com/ASBeatriz)
+
+Tabela:
+Categoria 1 | Categaria 2
+--- | ---
+texto | texto
+texto | texto
+
+```
+System.out.println("Trecho de código!");
+```
+`System.out.println("Ou linha")`
+
+:smile: 
+
+> quote
